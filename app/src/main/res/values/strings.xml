@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WifiAndHotspot</string>
+    <string name="turn_wifi_on">Turn WiFi On</string>
+    <string name="search_network">Search Network</string>
+</resources>
